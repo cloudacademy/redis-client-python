@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import redis
 
-redis_host = "localhost1"
+redis_host = "localhost"
 redis_port = 6379
 redis_password = ""
 
